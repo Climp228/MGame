@@ -1,0 +1,15 @@
+C:\Users\climp\source\repos\MGame\MGame\bin\Debug\MGame.exe.config
+C:\Users\climp\source\repos\MGame\MGame\bin\Debug\MGame.exe
+C:\Users\climp\source\repos\MGame\MGame\bin\Debug\MGame.pdb
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.csproj.AssemblyReference.cache
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MainWindow.g.cs
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\App.g.cs
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame_MarkupCompile.cache
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame_MarkupCompile.lref
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MainWindow.baml
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.g.resources
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.Properties.Resources.resources
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.csproj.GenerateResource.cache
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.csproj.CoreCompileInputs.cache
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.exe
+C:\Users\climp\source\repos\MGame\MGame\obj\Debug\MGame.pdb
